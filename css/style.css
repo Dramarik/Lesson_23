@@ -16,6 +16,9 @@ ul {
 
 
 .nav {
-    margin: 0;
     max-width: 800px;
+}
+.nav__link {
+    color: black;
+    text-decoration: none;
 }
