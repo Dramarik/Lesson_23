@@ -1,0 +1,23 @@
+{
+  "name": "Lesson_23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dramarik/Lesson_23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dramarik/Lesson_23/issues"
+  },
+  "homepage": "https://github.com/Dramarik/Lesson_23#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
